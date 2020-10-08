@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>s3.amazonaws.com</Endpoint><Bucket>fasttext-vectors</Bucket><RequestId>9AD0871C46E46057</RequestId><HostId>Y/+q+A+NCLaunC8CIUDjz3FDMJA3UnTwTUfXnI/BDJGKZhlROqrKmt1GSMHEfn+ZiOpUlMz3oxc=</HostId></Error>
